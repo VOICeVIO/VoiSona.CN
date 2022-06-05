@@ -1,0 +1,259 @@
+﻿Origin,Trans
+File,文件
+Edit,编辑
+Preference,设置
+Help,帮助
+Property,属性
+Sound,音
+Pitch,音高
+Duration,长度
+Lyric,歌词
+Phoneme,音素
+Position,位置
+Measure,小节
+Beat,拍子
+Tick,Tick
+Attribute,属性
+Accent,重音
+Staccato,断音
+Breath,呼吸
+Slur start,连音开始
+Slur end,连音结束
+Import,导入
+Export,导出
+Display Language,显示语言
+Japanese,简体中文
+English,英语
+Batch lyric entry,输入长段歌词
+Space,按空格分隔
+One note per character,1音符1字符
+OK,OK
+Cancel,取消
+Add,增加
+Change,更改
+Delete,删除
+Set lyrics to start from the first note. (Up to XXX notes),从开头音符开始设置歌词。(最大XXX音符)
+Set lyrics to start from the selected note. (Up to XXX notes),从选中的音符开始设置歌词。(最大XXX音符)
+Note Properties,音符属性
+Tempo Properties,曲速属性
+Time Signature Properties,节拍属性
+Key Signature Properties,调号属性
+Dynamics Properties,强弱记号属性
+Tempo,曲速
+Time signature,节拍
+Key signature,调号
+Dynamics,强弱记号
+Selection Tool,选择工具
+Bulk Selection Tool,范围选择工具
+Draw Tool,画笔工具
+Line Tool,直线工具
+Eraser Tool,橡皮擦工具
+Undo,撤销
+Redo,重做
+(Not selected),(未选择)
+Lock track,固定音轨
+Unlock the track?,要解除音轨的固定状态吗？
+Lock the track?,要固定音轨吗？
+Note,音符
+Tempo & Time Signature,曲速 & 节拍
+Quantize,量化
+Edit Score,乐谱编辑
+Edit Timing,时间调整
+Edit Volume,音量调整
+Edit Pitch,音高调整
+Edit Vibrato Amplitude,颤音振幅调整
+Edit Vibrato Frequency,颤音周期调整
+Edit Alpha Details,音色细节调整
+Edit Huskiness,沙哑程度调整
+Edit Mode,编辑模式
+Paste where clicked,粘贴到点击位置
+Hide Global Parameter,隐藏全局参数
+Show Global Parameter,显示全局参数
+Hide Tempo,隐藏曲速
+Show Tempo,显示曲速
+Hide Time Signature,隐藏节拍
+Show Time Signature,显示节拍
+Hide Key Signature,隐藏调号
+Show Key Signature,显示调号
+Clear slur start,清除滑音开始
+Set slur start,设置滑音开始
+Clear slur end,清除滑音结束
+Set slur end,设置滑音结束
+Reset phoneme,重置编辑过的音素
+"Invalid sampling rate. Please change the host sampling rate to 48,000 Hz.","不支持的采样率。请将宿主的采样率设置为48000 Hz。"
+Failed to synthesize.,语音合成失败。
+Failed to load voice.,声源读取失败。
+The notes in the first bar will not play. Please make changes.,开头小节的音符不会被播放。请修正此问题。
+Track was unlocked.,音轨固定已解除。
+Phoneme invalid.,指定的音素无效。
+Move Up,向上移动
+Move Down,向下移动
+Move Left,向左移动
+Move Right,向右移动
+Cut,剪切
+Copy,复制
+Paste,粘贴
+Select All,全选
+Color Theme,色彩主题
+General,常规
+Download Voice,下载声源
+(Not available),(不可用)
+(No voices),(无声源)
+Dark Mode,暗色模式
+Light Mode,亮色模式
+Activate,激活
+Version information,版本信息
+Scan MIDI,扫描MIDI
+The MIDI of the section to be played is sent to the plugin.,将播放区间对应的MIDI\n发送到插件。
+Scan Settings,扫描设置
+1/2(Triplet),1/2(三连音)
+1/4(Triplet),1/4(三连音)
+1/8(Triplet),1/8(三连音)
+1/16(Triplet),1/16(三连音)
+Audio Mixdown,导出混音WAV
+Quit,退出
+Save,保存
+Save As,另存为
+New Project,新工程
+Open,打开
+Save the current project?,要保存当前编辑的内容吗？
+Export Mixdown Audio File,导出混音WAV文件
+Exporting,导出中
+Audio Device,音频设备
+Error occurred while opening audio device.,打开音频设备时发生错误。
+Import Audio File,导入音频文件
+Add Song Track,添加歌唱音轨
+Add Talk Track,添加语音音轨
+Add Audio Track,添加音频音轨
+Duplicate Track,复制音轨
+Remove Track,删除音轨
+Change Track Name,更改音轨名
+Add Track,添加音轨
+Move Track,移动音轨
+Delete Audio File,删除音频文件
+Move Audio File,移动音频文件
+Load Voice,加载声源
+Load MusicXML,读取MusicXML文件
+Load CCS File,读取CCS文件
+Change Emotion Parameters,修改情感参数
+Add Note,添加音符
+Change Note,修改音符
+Delete Note,删除音符
+Paste Note,粘贴音符
+Add Tempo,添加曲速
+Add Time Signature,添加节拍
+Add Key Signature,添加调号
+Add Dynamic,添加强弱记号
+Add Mark,添加记号
+Change Tempo,修改曲速
+Change Time Signature,修改节拍
+Change Key Signature,修改调号
+Change Dynamic,修改强弱记号
+Change Mark,修改记号
+Delete Tempo,删除曲速
+Delete Time Signature,删除节拍
+Delete Key Signature,删除调号
+Delete Dynamic,删除强弱记号
+Change Timing,时间调整
+Change Volume,音量调整
+Change Pitch,音高调整
+Change Vibrato Amplitude,颤音振幅调整
+Change Vibrato Frequency,颤音周期调整
+Change Alpha Details,音色细节调整
+Change Huskiness,沙哑程度调整
+Global Parameters,全局参数
+Third Party Licensing,第三方版权信息
+One note with one syllable,1音符1音节
+Paste here,在此处粘贴
+Editor,编辑器
+Numeral display on Adjustment Screen,调整界面的数值显示
+Hide,隐藏
+Current value only,仅当前值
+Current value + Difference,当前+相对
+Only difference,仅相对值
+Display Middle C As,中央C设置
+Set Slur,滑音设置
+Shortcuts,快捷键
+Panel,面板
+Move up an octave,上移1个八度
+Move down an octave,下移1个八度
+Select a series of notes (right),选择连续的音符(向右)
+Select a series of notes (left),选择连续的音符(向左)
+Select Next Quantize,选择下一个量化单位
+Select Prev Quantize,选择上一个量化单位
+Show/Hide Global Parameter Panel,显示/隐藏全局参数面板
+Show/Hide Tempo Panel,显示/隐藏曲速面板
+Show/Hide Time Signature Panel,显示/隐藏节拍面板
+Show/Hide Key Signature Panel,显示/隐藏调号面板
+Show Next Tab,显示下一个选项卡
+Show Previous Tab,显示上一个选项卡
+Zoom In Horizontal,水平方向放大
+Zoom Out Horizontal,水平方向缩小
+Zoom In Vertical,垂直方向放大
+Zoom Out Vertical,垂直方向缩小
+reset to defaults,设置初始化
+Reset to defaults,设置初始化
+Are you sure you want to reset all the key-mappings to their default state?,确定要将所有快捷键设置恢复到初始状态吗？
+Reset,重置
+Set Accent,设置重音
+Unset Accent,取消重音
+Set Staccato,设置断音
+Unset Staccato,取消断音
+Set Breath,设置呼吸
+Unset Breath,取消呼吸
+Account Page,账号页面
+The limit on the number of PCs that can be authenticated has been reached.,激活的客户端数量已达上限。
+Click on the account page to delete the device and then try again.,请在官网账号页面删除不需要的设备后，再试一次。
+Download Vocoder,下载声码器
+Term of Use,使用条款
+Freeze Settings,冻结音轨设置
+Export Settings,导出设置
+Waveform Generator,选择声码器
+Location,位置
+Default,默认
+Freeze,冻结
+Freeze track,冻结音轨
+"By fixing the process, CPU usage can be reduced.",预合成音轨并禁止修改，\n以降低CPU占用率。
+Transfer MIDI,MIDI传输
+Transfer Settings,传输设置
+Delete Voice,删除声源
+Selected voice cannot be deleted,选中的声源不可删除
+Voice files have been deleted.,声源文件已被删除。
+Error in deleting voice files.,删除声源文件时发生错误。
+Delete Vocoder,删除声码器
+Track to load,要导入的音轨
+note(s),个音符
+Track,音轨
+MIDI Import Setting,MIDI导入设置
+View Manual,查看说明书
+Edit Tool,编辑工具
+Option,选项
+Auto Quantize,自动量化
+Select Voice,选择声源
+Press the Download button in the list of voice libraries to download the voice library.,点击声源库界面中的下载按钮来下载声源。
+"If the downloaded voice library fails to load, press the Delete button to delete the voice library and then try downloading it again.",如果已下载的声源加载失败，点击删除按钮，然后尝试重新下载。
+Seconds,秒
+Bars,小节
+Transport,走带控制
+Return to Start Position when Stopped,停止时返回开始位置
+Play,播放
+Stop,停止
+Loop,循环
+Return to Zero,回开头
+Split Note,分割音符
+Split Tool,分割工具
+Confirm Save As,确认另存名称
+already exists.\nDo you want to replace it?,已存在。\n要覆盖吗?
+Fast Forward,快进
+Rewind,快退
+Move forward 1 measure,前进1小节
+Move back 1 measure,后退1小节
+New Arrivals,新闻
+Mark as unread,标记为未读
+Mark as read,标记为已读
+No new arrivals.,没有新闻。
+Line View,显示网格线
+Timing Status Line,显示音素状态线
+Articulation,发音
+Line Display on Adjustment Screen,在调整界面也显示网格线
+Author,中文汉化 by VOICeVIO (wdwxy12345@gmail.com)
