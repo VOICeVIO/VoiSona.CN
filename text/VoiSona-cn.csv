@@ -75,10 +75,10 @@ Hide Time Signature,隐藏节拍
 Show Time Signature,显示节拍
 Hide Key Signature,隐藏调号
 Show Key Signature,显示调号
-Clear slur start,清除滑音开始
-Set slur start,设置滑音开始
-Clear slur end,清除滑音结束
-Set slur end,设置滑音结束
+Clear slur start,清除连音开始
+Set slur start,设置连音开始
+Clear slur end,清除连音结束
+Set slur end,设置连音结束
 Reset phoneme,重置编辑过的音素
 "Invalid sampling rate. Please change the host sampling rate to 48,000 Hz.","不支持的采样率。请将宿主的采样率设置为48000 Hz。"
 Failed to synthesize.,语音合成失败。
@@ -172,7 +172,7 @@ Current value only,仅当前值
 Current value + Difference,当前+相对
 Only difference,仅相对值
 Display Middle C As,中央C设置
-Set Slur,滑音设置
+Set Slur,设置连音
 Shortcuts,快捷键
 Panel,面板
 Move up an octave,上移1个八度
