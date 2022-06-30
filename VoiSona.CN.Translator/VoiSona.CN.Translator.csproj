@@ -11,11 +11,15 @@
     <Version>1.0.0</Version>
     <PackageProjectUrl>https://github.com/VOICeVIO/VoiSona.CN</PackageProjectUrl>
     <RepositoryUrl>https://github.com/VOICeVIO/VoiSona.CN</RepositoryUrl>
-    <FileVersion>0.6.0.8</FileVersion>
+    <FileVersion>0.6.1.0</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="CsvHelper" Version="27.2.1" />
   </ItemGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="xcopy &quot;$(SolutionDir)text&quot; &quot;$(TargetDir)&quot; /E /Y" />
+  </Target>
 
 </Project>
